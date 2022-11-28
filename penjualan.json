@@ -1,0 +1,51 @@
+{
+    "penjualan": [
+        {
+            "idNota": 1,
+            "tanggal": "2022-11-20",
+            "nama": "Swallow Nice",
+            "kuantitas": 2,
+            "hargaPerLusin": 112000,
+            "totalHarga": 224000
+        },
+        {
+            "idNota": 2,
+            "tanggal": "2022-11-11",
+            "kuantitas": 0.5,
+            "hargaPerLusin": 106000,
+            "totalHarga": 53000
+        },
+        {
+            "idNota": 3,
+            "tanggal": "2022-11-01",
+            "nama": "Swallow 05 Seri",
+            "kuantitas": 5,
+            "hargaPerLusin": 106000,
+            "totalHarga": 530000
+        },
+        {
+            "idNota": 4,
+            "tanggal": "2022-10-10",
+            "nama": "Porto 1003 K",
+            "kuantitas": 1.5,
+            "hargaPerLusin": 168000,
+            "totalHarga": 252000
+        },
+        {
+            "idNota": 5,
+            "tanggal": "2022-11-01",
+            "nama": "NE L0374",
+            "kuantitas": 2.5,
+            "hargaPerLusin": 240000,
+            "totalHarga": 600000
+        },
+        {
+            "idNota": 6,
+            "tanggal": "2022-11-28",
+            "nama": "Ka-Ki 7003 TG",
+            "kuantitas": 1.0,
+            "hargaPerLusin": 162000.0,
+            "totalHarga": 162000.0
+        }
+    ]
+}
