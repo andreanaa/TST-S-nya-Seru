@@ -11,9 +11,10 @@
         {
             "idNota": 2,
             "tanggal": "2022-11-11",
+            "nama": "Swallow 05 Seri",
             "kuantitas": 0.5,
-            "hargaPerLusin": 106000,
-            "totalHarga": 53000
+            "hargaPerLusin": 106000.0,
+            "totalHarga": 53000.0
         },
         {
             "idNota": 3,
